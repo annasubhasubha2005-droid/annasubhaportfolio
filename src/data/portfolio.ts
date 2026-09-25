@@ -325,8 +325,8 @@ export const caseStudies: CaseStudy[] = [
         body: 'Filter chips grew to a 44px tap height after two testers hit the wrong one, and the active chip now inverts to solid green rather than changing only its border.',
       },
     ],
-    prototypeUrl: PLACEHOLDER,
-    figmaFileUrl: PLACEHOLDER,
+    prototypeUrl: https://www.figma.com/design/geBNtIXmSScDGs8ORqxpYB/MealEz-Food-Delivery-App?node-id=0-1&t=gBSTLacyWFiVBOCq-1,
+    figmaFileUrl: https://www.figma.com/design/geBNtIXmSScDGs8ORqxpYB/MealEz-Food-Delivery-App?node-id=0-1&t=gBSTLacyWFiVBOCq-1,
   },
   {
     slug: 'zbazaar',
@@ -435,8 +435,8 @@ export const caseStudies: CaseStudy[] = [
         body: 'Filtering happens in a bottom sheet above the grid, so results stay partially visible and the context is never lost.',
       },
     ],
-    prototypeUrl: PLACEHOLDER,
-    figmaFileUrl: PLACEHOLDER,
+    prototypeUrl: https://www.figma.com/design/SOI9iTTqs6NqDRwNcZz072/Z--Bazaar-Fashion-Shopping-App?t=7hc9wKvPbJ5ptOsu-1,
+    figmaFileUrl: https:https://www.figma.com/design/SOI9iTTqs6NqDRwNcZz072/Z--Bazaar-Fashion-Shopping-App?t=7hc9wKvPbJ5ptOsu-1,
   },
 ]
 
